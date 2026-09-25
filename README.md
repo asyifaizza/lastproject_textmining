@@ -418,7 +418,7 @@ The main objective of this project is to demonstrate the implementation of **Nat
 
 ## 👩🏻‍💻 Author
 
-**Asyifa Izza**
+**Asyifa Izzatil Isma**
 
 Computer Science & Statistics Student
 
